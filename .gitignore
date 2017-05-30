@@ -1,0 +1,6 @@
+log/
+cert/
+tests/
+node_modules/
+.ftpconfig
+config.js
